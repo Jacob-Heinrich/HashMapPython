@@ -1,2 +1,2 @@
 # HashMapPython
-Implementation of Hash Map in python
+Implementation of a Hash Map in python
